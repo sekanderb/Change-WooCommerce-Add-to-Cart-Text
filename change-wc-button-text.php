@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Change WooCommerce Add to Cart Text
-Plugin URI: http://www.nsp-code.com
+Plugin URI: https://github.com/badsha-eee/Change-WooCommerce-Add-to-Cart-Text/
 Description: Lorem Ipsome Dolor
 Author: Sekander Badsha
 Author URI: http://sekander.pro 
