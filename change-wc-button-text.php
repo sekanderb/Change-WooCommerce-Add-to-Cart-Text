@@ -3,7 +3,7 @@
 /*
 Plugin Name: Change WooCommerce Add to Cart Text
 Plugin URI: https://github.com/badsha-eee/Change-WooCommerce-Add-to-Cart-Text/
-Description: Lorem Ipsome Dolor
+Description: This plugin helps you to change the "Add To Cart" button text to anything from a simple settings page available in wp-admin → Settings → Reading
 Author: Sekander Badsha
 Author URI: http://sekander.pro 
 Version: 0.1
