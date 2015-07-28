@@ -7,11 +7,9 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin helps you to change the "Add To Cart" button text to anything from a simple settings page available in wp-admin → Settings → Reading
-
 == Description ==
 
-WooCommerce is one of the most popular WordPress plugin and best solution for eCommerce. The button used to buy products has static text and you can not change that without getting your hands dirty with codes. So we made this plugin for you to change the button text the way you want to be in any language. You can even use speacial Unicode characters, HTML5 Special Characters, Font Awesome or any other icon that loads on the page from your theme or plugin and Emojis too!
+This plugin helps you to change the "Add To Cart" button text to anything from a simple settings page available in wp-admin → Settings → Reading
 
 
 = Features =
@@ -39,7 +37,7 @@ A. You can put the normal html code like `<i class="fa fa-shopping-cart"></i> Bu
 A. There is no magic trick. Just copy and paste!
 
 = Q. Found a bug? =
-A. Found any bugs? Please create an [issue](https://github.com/badsha-eee/Change-WooCommerce-Add-to-Cart-Text/issues) on github.
+A. Found any bugs? [Please create an issue](https://github.com/badsha-eee/Change-WooCommerce-Add-to-Cart-Text/issues) on github.
 
 == Changelog ==
 
